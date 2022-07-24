@@ -1,0 +1,14 @@
+{
+    "ip": "softcubd.aternos.me",
+    "port": 58553,
+    "name": "\u044f\u0440\u0438\u043a",
+    "auto-night-skip": "false",
+    "join-msg": "\u043f\u0440\u0438\u0432\u0435\u0442 \u0431\u043b\u0438\u0434\u0438\u043d\u0430 \u0434\u043e\u0431\u0440\u043e \u043f\u043e\u0436\u0430\u043b\u043e\u0432\u0430\u0442\u044c ",
+    "join-msg-on": "true",
+    "custom-message-enabled": "false",
+    "custom-message-1": "subscribe to LION BOY",
+    "custom-message-2": "subscribe to LION BOY",
+    "login-enabled": "false",
+    "register-cmd": "/register 12345678 12345678",
+    "login-cmd": "/login 12345678"
+}
